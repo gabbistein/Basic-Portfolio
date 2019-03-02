@@ -1,2 +1,2 @@
 # Basic-Portfolio
-This will be my portfolio, check back soon!
+This is my portfolio!
