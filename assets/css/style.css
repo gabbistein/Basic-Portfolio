@@ -61,6 +61,11 @@ li a {
     text-decoration:none;
     margin-left:5px;
     margin-right:5px;
+    color:black;
+}
+
+li a:hover{
+    color:#2a615e;
 }
 
 h2 {
@@ -117,10 +122,10 @@ hr {
   }
 
   .textfield {
-      width:910px;
-      margin-top:10px;
-      margin-bottom:10px;
-      padding:2px;
+      width:905px;
+      margin-top:8px;
+      margin-bottom:8px;
+      padding:4px;
   }
 
   .button {
@@ -131,4 +136,9 @@ hr {
       padding:8px;
       padding-left:20px;
       padding-right:20px;
+  }
+
+  .button:hover {
+      background-color:#5acec8;
+      border:2px solid #52bbb6;       
   }
