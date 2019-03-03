@@ -83,12 +83,12 @@ h2 {
     padding-left:20px;
     padding-right:20px;
     padding-bottom:20px;
-    line-height:1.4;
+    line-height:1.5;
 }
 
 .inline-image {
     float:left;
-    margin:0 10px 0 0;
+    margin:6.25px 12px 0 0;
 }
 
 hr { 
@@ -111,7 +111,7 @@ hr {
       color:#ffffffc7;
       text-align:center;
       clear:both;
-      position:relative;
+      position: absolute;
       bottom:0;
       width:100%;
       padding: 20px 0 20px 0;
