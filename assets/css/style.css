@@ -88,7 +88,8 @@ h2 {
 
 .inline-image {
     float:left;
-    margin:6.25px 12px 0 0;
+    margin:6.1px 15px 0 0;
+    border-radius:2.2px;
 }
 
 hr { 
@@ -101,11 +102,11 @@ hr {
     border-width:1px;
   }
 
-  .row {
-      margin:20px;
+.row {
+      margin:0 20px 20px 20px;
   }
 
-  footer {
+footer {
       background-color:#666666;
       border-top: 10px solid #4aaaa5;
       color:#ffffffc7;
@@ -117,18 +118,18 @@ hr {
       padding: 20px 0 20px 0;
   }
 
-  textarea {
+textarea {
       height:150px;
   }
 
-  .textfield {
+.textfield {
       width:905px;
       margin-top:8px;
       margin-bottom:8px;
       padding:4px;
   }
 
-  .button {
+.button {
       border-radius:2px;
       background-color:#4aaaa5;
       color:#ffffff;
@@ -138,7 +139,15 @@ hr {
       padding-right:20px;
   }
 
-  .button:hover {
+.button:hover {
       background-color:#5acec8;
       border:2px solid #52bbb6;       
   }
+
+.picture {
+    position:relative;
+    margin-right:15px;
+    margin-bottom:15px;
+    border-radius:2.2px;
+  }
+
